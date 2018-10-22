@@ -1,0 +1,38 @@
+.img-fluid{
+max-width: 75px;
+max-height: 75px;
+  }
+
+.black {
+  background-color: #333333
+}
+
+.green {
+  background-color: #026e00
+}
+
+.ccc{
+  color:#cccccc
+}
+
+.underline{
+  text-decoration: underline
+}
+
+a:hover {
+    background-color: #026e00;
+  }
+
+.link {
+    color: #000000;
+}
+
+
+.link:hover {
+  color: white;
+  text-decoration: none
+}
+
+.dark:hover{
+  #000000
+}
