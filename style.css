@@ -67,12 +67,30 @@ white-space: nowrap;
   font-size:14px;
 }
 
-@media (max-width: 600px){
+.navbar-brand{
+  text-align: center;
+  padding-left: 25%;
+}
+
+@media (max-width: 700px){
 
 .btn-lg{
-  background-color: red;
-}
+
+  width: 60%;
+  height: 60%;
+
+
 
 }
-=======
->>>>>>> 3879a0dc6ad6297b63149f3742b4a6313dcebffd
+
+.bottom{
+  display: none
+}
+
+.footer{
+  display: none; 
+}
+
+
+
+}
